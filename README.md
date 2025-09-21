@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with trading...
 - 💬 Ask me about videogames...
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://carlosrod723.github.io/Portfolio-Website/](https://github.com/users/juaxix/projects/3))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/users/juaxix/projects/3)
 
 ## 📈 GitHub Stats
 
