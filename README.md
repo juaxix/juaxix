@@ -16,7 +16,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juaxix&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=juaxix)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=juaxix&theme=vue-dark)](https://git.io/streak-stats)
 
 </div>
 
