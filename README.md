@@ -9,10 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/users/juaxix/projects/3)
 
 ## 📈 GitHub Stats
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=juaxix&theme=tokyonight&hide_border=true&border_radius=6&short_numbers=true" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=juaxix&theme=tokyonight&hide_border=true&border_radius=6&short_numbers=true)](https://git.io/streak-stats)
 
 ## 📊 Latest Contributions
 <div align="center">
