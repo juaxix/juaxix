@@ -18,8 +18,6 @@
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juaxix&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juaxix&theme=tokyo-night)
-
 </div>
 
 ## 📊 Latest Contributions
