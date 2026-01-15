@@ -32,20 +32,12 @@
 </div>
 
 [![Followers](https://img.shields.io/github/followers/juaxix?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juaxix)
+![Stars](https://img.shields.io/github/stars/juaxix?style=for-the-badge&logo=github)
 
 
 ## 📊 Activity 
 <div align="center">
-  
-<a href="https://github.com/juaxix">
-  <img src="https://ghchart.rshah.org/409ba5/juaxix" alt="GitHub Contribution Chart" />
-</a>
-
-</div>
-
-<div align="center">
-  
-<a href="https://github.com/juaxix">
+  <a href="https://github.com/juaxix">
   <img src="https://ghchart.rshah.org/409ba5/juaxix" alt="GitHub Contribution Chart" />
 </a>
 
