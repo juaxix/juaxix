@@ -15,27 +15,11 @@
 <div align="center">
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juaxix&theme=github_dark) 
-
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juaxix&theme=github_dark&utcOffset=8)
 ![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juaxix&theme=github_dark)
 
 ![Repo Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juaxix&theme=github_dark) 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juaxix&theme=github_dark) 
 
-</div>
-
-## 📊 Latest Contributions
-<div align="center">
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juaxix&theme=github_dark)
-
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juaxix&theme=github_dark&utcOffset=8)
-
-</div>
-
-## 📊 Activity 
-<div align="center">
-  <a href="https://github.com/juaxix">
-  <img src="https://ghchart.rshah.org/409ba5/juaxix" alt="GitHub Contribution Chart" />
-</a>
 
 </div>
