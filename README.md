@@ -7,31 +7,26 @@
 - 💬 Ask me about videogames...
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/users/juaxix/projects/3)
+[![Followers](https://img.shields.io/github/followers/juaxix?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juaxix)
+![Stars](https://img.shields.io/github/stars/juaxix?style=for-the-badge&logo=github)
 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juaxix&theme=tokyonight)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juaxix&theme=midnight_purple) 
 
 ![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juaxix&theme=tokyonight)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juaxix&theme=tokyonight)
+![Repo Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juaxix&theme=midnight_purple) 
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juaxix&theme=midnight_purple) 
 
 </div>
 
 ## 📊 Latest Contributions
 <div align="center">
-  
-<a href="https://github.com/juaxix">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juaxix&theme=redical&hide_border=true" alt="Contribution Graph" />
-</a>
-
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juaxix&theme=midnight_purple)   
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juaxix&theme=midnight_purple&utcOffset=8) 
 </div>
-
-[![Followers](https://img.shields.io/github/followers/juaxix?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juaxix)
-![Stars](https://img.shields.io/github/stars/juaxix?style=for-the-badge&logo=github)
-
 
 ## 📊 Activity 
 <div align="center">
