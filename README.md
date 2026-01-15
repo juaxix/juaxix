@@ -22,14 +22,31 @@
 
 </div>
 
-
 ## 📊 Latest Contributions
 <div align="center">
   
 <a href="https://github.com/juaxix">
-  <img src="https://github-readme-stats.vercel.app/api?username=juaxix&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juaxix&theme=redical&hide_border=true" alt="Contribution Graph" />
 </a>
 
 </div>
 
 [![Followers](https://img.shields.io/github/followers/juaxix?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juaxix)
+
+
+## 📊 Activity 
+<div align="center">
+  
+<a href="https://github.com/juaxix">
+  <img src="https://ghchart.rshah.org/409ba5/juaxix" alt="GitHub Contribution Chart" />
+</a>
+
+</div>
+
+<div align="center">
+  
+<a href="https://github.com/juaxix">
+  <img src="https://ghchart.rshah.org/409ba5/juaxix" alt="GitHub Contribution Chart" />
+</a>
+
+</div>
