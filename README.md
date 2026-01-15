@@ -9,7 +9,19 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/users/juaxix/projects/3)
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=juaxix&theme=tokyonight&hide_border=true&border_radius=6&short_numbers=true)](https://git.io/streak-stats)
+
+<div align="center">
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juaxix&theme=tokyonight)
+
+![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juaxix&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juaxix&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juaxix&theme=tokyo-night)
+
+</div>
+
 
 ## 📊 Latest Contributions
 <div align="center">
